@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "img": "/images/lamborghini.jpg",
+        "name": "Lamborghini",
+        "description": "Automobili Lamborghini S.p.A. is an Italian manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi.",
+        "founder": "Ferruccio Lamborghini",
+        "founded": "May 7, 1963, Sant'Agata Bolognese, Italy"
+    },
+    {
+        "id": 2,
+        "img": "/images/bugatti.jpg",
+        "name": "Bugatti",
+        "description": "Automobiles Ettore Bugatti was a German then French manufacturer of high-performance automobiles. The company was founded in 1909 in the then-German city of Molsheim, Alsace, by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and numerous race victories.",
+        "founder": "Ettore Bugatti",
+        "founded": "1909, Molsheim, France"
+    },
+    {
+        "id": 3,
+        "img": "/images/ferarri.jpg",
+        "name": "Ferrari",
+        "description": "Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello. Founded in 1939 by Enzo Ferrari, the company built its first car in 1940, adopted its current name in 1945, and began to produce its current line of road cars in 1947.",
+        "founder": "Enzo Ferrari",
+        "founded": "1939, Maranello, Italy"
+    },
+    {
+        "id": 4,
+        "img": "/images/ford.jpg",
+        "name": "Ford",
+        "description": "Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln brand.",
+        "founder": "Henry Ford",
+        "founded": "June 16, 1903, Detroit, Michigan, United States"
+    },
+    {
+        "id": 5,
+        "img": "/images/bmw.jpg",
+        "name": "Bayerische Motoren Werke AG",
+        "description": "Bayerische Motoren Werke AG, commonly abbreviated to BMW, is a German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.",
+        "founder": "Karl Rapp, Gustav Otto, Camillo Castiglioni, Franz Josef Popp",
+        "founded": "March 7, 1916, Munich, Germany"
+    },
+    {
+        "id": 6,
+        "img": "/images/audi.jpg",
+        "name": "Audi",
+        "description": "Audi AG is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. A subsidiary of the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide.",
+        "founder": "August Horch",
+        "founded": "July 16, 1909, Zwickau, Germany"
+    },
+    {
+        "id": 7,
+        "img": "/images/jaguar.jpg",
+        "name": "Jaguar Land Rover",
+        "description": "Jaguar is the sports car and luxury vehicle brand of Jaguar Land Rover, a British multinational car manufacturer with its headquarters in Whitley, Coventry, England.",
+        "founder": "William Lyons, William Walmsley",
+        "founded": "September 4, 1922, Blackpool, United Kingdom"
+    },
+    {
+        "id": 8,
+        "img": "/images/land_rover.jpg",
+        "name": "Land Rover",
+        "description": "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover, since 2008 a subsidiary of India's Tata Motors. JLR builds Land Rovers in Brazil, China, India, Slovakia, and the United Kingdom.",
+        "founder": "British Leyland",
+        "founded": "1978"
+    },
+    {
+        "id": 9,
+        "img": "/images/tesla.jpg",
+        "name": "Tesla",
+        "description": "Tesla, Inc. is an American multinational automotive and clean energy company headquartered in Austin, Texas, which designs, manufactures and sells battery electric vehicles, stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.",
+        "founder": "Elon Musk, Martin Eberhard, JB Straubel, Marc Tarpenning, Ian Wright",
+        "founded": "July 1, 2003, San Carlos, California, United States"
+    },
+    {
+        "id": 10,
+        "img": "/images/tesla.jpg",
+        "name": "Rolls-Royce Holdings",
+        "description": "Rolls-Royce Holdings plc is a British multinational aerospace and defence company incorporated in February 2011. The company owns Rolls-Royce, a business established in 1904 which today designs, manufactures and distributes power systems for aviation and other industries.",
+        "founder": "Rolls-Royce",
+        "founded": "23 December 1904; 119 years ago Business: 15 March 1906; 118 years ago, in Manchester, Lancashire, England"
+    },
+    {
+        "id": 11,
+        "img": "/images/genesis_motor.jpg",
+        "name": "Genesis Motor",
+        "description": "Genesis Motor, LLC, commonly referred to as Genesis, is the luxury vehicle brand of the South Korean vehicle manufacturer Hyundai Motor Company. Initially envisioned along with plans for Hyundai's new luxury Genesis sedan in 2004, Genesis was officially announced as an independent brand on 4 November 2015.",
+        "founder": "Hyundai Motor Company",
+        "founded": "2015; 9 years ago"
+    },
+    {
+        "id": 12,
+        "img": "/images/porsche.jpg",
+        "name": "Porsche",
+        "description": "Dr. Ing. h.c. F. Porsche AG, usually shortened to Porsche, is a German automobile manufacturer specializing in luxury, high-performance sports cars, SUVs and sedans, headquartered in Stuttgart, Baden-Württemberg, Germany.",
+        "founder": "Ferdinand Porsche",
+        "founded": "April 25, 1931, Stuttgart, Germany"
+    },
+    {
+        "id": 12,
+        "img": "/images/lexus.jpg",
+        "name": "Lexus",
+        "description": "The Lexus brand is marketed in more than 90 countries and territories worldwide and is Japan's largest-selling make of premium cars. It has ranked among the 10 largest Japanese global brands in market value. Lexus is headquartered in Nagoya, Japan. Operational centers are located in Brussels, Belgium, and Plano, Texas, United States.",
+        "founder": "Eiji Toyoda",
+        "founded": "1989, Aichi, Japan"
+    }
+]
