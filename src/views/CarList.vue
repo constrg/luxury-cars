@@ -83,6 +83,7 @@ const previousPage = () => {
     background: linear-gradient(to right, var(--clr-light), var(--clr-gray));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px var(--clr-light);
 }
 
 .car_list_content .car_list_content_header .search {
